@@ -1,4 +1,4 @@
-package logger
+package go_logger
 
 type IHandler interface {
 	Handle(record *Record) bool

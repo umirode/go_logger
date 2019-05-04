@@ -1,4 +1,4 @@
-package logger
+package go_logger
 
 const Emergency = 600
 const Alert = 550
